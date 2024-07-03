@@ -10,6 +10,7 @@
 /home/alex/FAC/FAC_Apprenticeship/W79/workshops/GameStore/GameStore.Api/obj/Debug/net8.0/GameStore.Api.AssemblyInfo.cs
 /home/alex/FAC/FAC_Apprenticeship/W79/workshops/GameStore/GameStore.Api/obj/Debug/net8.0/GameStore.Api.csproj.CoreCompileInputs.cache
 /home/alex/FAC/FAC_Apprenticeship/W79/workshops/GameStore/GameStore.Api/obj/Debug/net8.0/GameStore.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/alex/FAC/FAC_Apprenticeship/W79/workshops/GameStore/GameStore.Api/obj/Debug/net8.0/GameStore.Api.sourcelink.json
 /home/alex/FAC/FAC_Apprenticeship/W79/workshops/GameStore/GameStore.Api/obj/Debug/net8.0/staticwebassets.build.json
 /home/alex/FAC/FAC_Apprenticeship/W79/workshops/GameStore/GameStore.Api/obj/Debug/net8.0/staticwebassets.development.json
 /home/alex/FAC/FAC_Apprenticeship/W79/workshops/GameStore/GameStore.Api/obj/Debug/net8.0/staticwebassets/msbuild.GameStore.Api.Microsoft.AspNetCore.StaticWebAssets.props

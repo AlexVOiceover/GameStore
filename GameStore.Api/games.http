@@ -1,0 +1,29 @@
+GET http://localhost:5005/games
+
+###
+
+GET http://localhost:5005/game/2
+
+###
+POST http://localhost:5005/games
+Content-Type: application/json
+
+    {
+        "name": "Overwatch",
+        "genre": "Shooter",
+        "price": 39.99,
+        "releaseDate": "2016-10-10"
+    }
+
+###
+PUT  http://localhost:5005/games/1
+Content-Type: application/json
+
+    {
+        "name": "Perico",
+        "genre": "Shooter",
+        "price": 39.99,
+        "releaseDate": "2016-10-10"
+    }
+
+###

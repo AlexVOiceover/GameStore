@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alex/FAC/FAC_Apprenticeship/W79/workshops/GameStore/GameStore.Api/GameStore.Api.csproj",
+      "projectUniqueName": "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/minimalAPI/GameStore/GameStore.Api/GameStore.Api.csproj",
       "projectName": "GameStore.Api",
-      "projectPath": "/home/alex/FAC/FAC_Apprenticeship/W79/workshops/GameStore/GameStore.Api/GameStore.Api.csproj",
+      "projectPath": "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/minimalAPI/GameStore/GameStore.Api/GameStore.Api.csproj",
       "packagesPath": "/home/alex/.nuget/packages/",
-      "outputPath": "/home/alex/FAC/FAC_Apprenticeship/W79/workshops/GameStore/GameStore.Api/obj/",
+      "outputPath": "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/minimalAPI/GameStore/GameStore.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/alex/.nuget/NuGet/NuGet.Config"

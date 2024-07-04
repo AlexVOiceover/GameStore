@@ -79,6 +79,7 @@ private static readonly List<GameDto> games =
         // POST /games
         group.MapPost("/", (CreateGameDto newGame) => 
         {
+        
             GameDto game = new (
                 games.Count +1,
                 newGame.Name,
